@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Blufaloo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Ahoj! 👋 Jsem Nyvrakk
 
-<!---
-Blufaloo/Blufaloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Jsem vývojář Minecraft pluginů a nadšenec do herního vývoje. Rád tvořím užitečné a inovativní pluginy, které vylepšují herní zážitek a pomáhají komunitě.
+Dále pracuji jako Webový vývojář v jazykách jako HTML, PHP používám TailwindCSS knihovnu.
+
+## O mých projektech
+
+- 🔧 **CrossPlaceholders** – plugin pro cross-server placeholdery s integrací do databáze a podporou více serverů.
+
+## Kontakt
+
+- 💬 Discord: nyvrakk
+- 📧 E-mail: nyvrakk@gmail.com
+
+Díky za návštěvu mého profilu! Pokud se ti líbí mé projekty, neváhej dát ⭐ a sledovat můj GitHub pro nové aktualizace.
