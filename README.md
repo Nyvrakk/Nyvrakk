@@ -6,6 +6,7 @@ Dále pracuji jako Webový vývojář v jazykách jako HTML, PHP používám Tai
 ## O mých projektech
 
 - 🔧 **CrossPlaceholders** – plugin pro cross-server placeholdery s integrací do databáze a podporou více serverů.
+- 🔧 **MSG Proxy Systém** - plugin na privátní zprávy s integrací Spy, MsgToggle, reply systémem.
 
 ## Kontakt
 
