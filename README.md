@@ -7,6 +7,7 @@ Dále pracuji jako Webový vývojář v jazykách jako HTML, PHP používám Tai
 
 - 🔧 **CrossPlaceholders** – plugin pro cross-server placeholdery s integrací do databáze a podporou více serverů.
 - 🔧 **MSG Proxy Systém** - plugin na privátní zprávy s integrací Spy, MsgToggle, reply systémem.
+- 🔧 **Proxy Server Management** - plugin pro automatické zapínání serverů v případě že je jeden ze serverů naplněn z 80% hráčů. (Hodí se v případě více lobby, či více herních serverů)
 
 ## Kontakt
 
