@@ -1,17 +1,17 @@
-# Ahoj! 👋 Jsem Nyvrakk
+# 👋 Hi there! I'm Nyvrakk
 
-Jsem vývojář Minecraft pluginů a nadšenec do herního vývoje. Rád tvořím užitečné a inovativní pluginy, které vylepšují herní zážitek a pomáhají komunitě.
-Dále pracuji jako Webový vývojář v jazykách jako HTML, PHP používám TailwindCSS knihovnu.
+I'm a Minecraft plugin developer and gaming enthusiast. I love creating useful and innovative plugins that enhance the gaming experience and help the community thrive.  
+Besides Minecraft, I work as a web developer using technologies like HTML and PHP, often styled with the TailwindCSS framework.
 
-## O mých projektech
+## 🔧 About My Projects
 
-- 🔧 **CrossPlaceholders** – plugin pro cross-server placeholdery s integrací do databáze a podporou více serverů.
-- 🔧 **MSG Proxy Systém** - plugin na privátní zprávy s integrací Spy, MsgToggle, reply systémem.
-- 🔧 **Proxy Server Management** - plugin pro automatické zapínání serverů v případě že je jeden ze serverů naplněn z 80% hráčů. (Hodí se v případě více lobby, či více herních serverů)
+- **CrossPlaceholders** – A plugin for cross-server placeholders with database integration and multi-server support.  
+- **MSG Proxy System** – A private messaging plugin with Spy, MsgToggle, and reply system integration.  
+- **Proxy Server Management** – Automatically starts servers when others reach 80% capacity, ideal for multiple lobbies or game servers.
 
-## Kontakt
+## 📫 Contact Me
 
-- 💬 Discord: nyvrakk
-- 📧 E-mail: nyvrakk@gmail.com
+- Discord: nyvrakk  
+- Email: [nyvrakk@gmail.com](mailto:nyvrakk@gmail.com)  
 
-Díky za návštěvu mého profilu! Pokud se ti líbí mé projekty, neváhej dát ⭐ a sledovat můj GitHub pro nové aktualizace.
+Thanks for visiting my profile! If you like my projects, please ⭐ star and follow my GitHub for updates.
